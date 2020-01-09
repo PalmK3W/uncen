@@ -4,6 +4,7 @@ import Home from "./component/Home"
 import About from "./component/About"
 import Topic from './component/Topic'
 import Nav from './component/Nav'
+import './App.css'
 
 export default function App() {
   return (
